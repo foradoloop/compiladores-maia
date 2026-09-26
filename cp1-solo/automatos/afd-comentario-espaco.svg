@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "https://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="800" height="600" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="180.5" cy="300.5" rx="30" ry="30"/>
+	<text x="137.5" y="306.5" font-family="Times New Roman" font-size="20">scanToken</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="490.5" cy="300.5" rx="30" ry="30"/>
+	<text x="445.5" y="306.5" font-family="Times New Roman" font-size="20">comentario</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="490.5" cy="500.5" rx="30" ry="30"/>
+	<text x="457.5" y="506.5" font-family="Times New Roman" font-size="20">descarta</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="490.5" cy="500.5" rx="24" ry="24"/>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="180.5" cy="500.5" rx="30" ry="30"/>
+	<text x="164.5" y="506.5" font-family="Times New Roman" font-size="20">erro</text>
+	<polygon stroke="black" stroke-width="1" points="90.5,300.5 150.5,300.5"/>
+	<polygon fill="black" stroke-width="1" points="150.5,300.5 142.5,295.5 142.5,305.5"/>
+	<polygon stroke="black" stroke-width="1" points="210.5,300.5 460.5,300.5"/>
+	<polygon fill="black" stroke-width="1" points="460.5,300.5 452.5,295.5 452.5,305.5"/>
+	<text x="330.5" y="321.5" font-family="Times New Roman" font-size="20">#</text>
+	<polygon stroke="black" stroke-width="1" points="205.709,316.764 465.291,484.236"/>
+	<polygon fill="black" stroke-width="1" points="465.291,484.236 461.279,475.698 455.858,484.101"/>
+	<text x="237.5" y="421.5" font-family="Times New Roman" font-size="20">espaco | tab</text>
+	<polygon stroke="black" stroke-width="1" points="180.5,330.5 180.5,470.5"/>
+	<polygon fill="black" stroke-width="1" points="180.5,470.5 185.5,462.5 175.5,462.5"/>
+	<text x="133.5" y="406.5" font-family="Times New Roman" font-size="20">outro</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 477.275,273.703 A 22.5,22.5 0 1 1 503.725,273.703"/>
+	<text x="430.5" y="224.5" font-family="Times New Roman" font-size="20">outro caractere</text>
+	<polygon fill="black" stroke-width="1" points="503.725,273.703 512.473,270.17 504.382,264.292"/>
+	<polygon stroke="black" stroke-width="1" points="490.5,330.5 490.5,470.5"/>
+	<polygon fill="black" stroke-width="1" points="490.5,470.5 495.5,462.5 485.5,462.5"/>
+	<text x="362.5" y="406.5" font-family="Times New Roman" font-size="20">quebra de linha</text>
+</svg>

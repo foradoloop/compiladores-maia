@@ -1,0 +1,34 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "https://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="800" height="600" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="110.5" cy="300.5" rx="30" ry="30"/>
+	<text x="67.5" y="306.5" font-family="Times New Roman" font-size="20">scanToken</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="390.5" cy="300.5" rx="30" ry="30"/>
+	<text x="353.5" y="306.5" font-family="Times New Roman" font-size="20">identifier</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="110.5" cy="480.5" rx="30" ry="30"/>
+	<text x="94.5" y="486.5" font-family="Times New Roman" font-size="20">erro</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="690.5" cy="180.5" rx="30" ry="30"/>
+	<text x="639.5" y="186.5" font-family="Times New Roman" font-size="20">KEYWORD</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="690.5" cy="180.5" rx="24" ry="24"/>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="690.5" cy="430.5" rx="30" ry="30"/>
+	<text x="635.5" y="436.5" font-family="Times New Roman" font-size="20">IDENTIFIER</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="690.5" cy="430.5" rx="24" ry="24"/>
+	<polygon stroke="black" stroke-width="1" points="40.5,300.5 80.5,300.5"/>
+	<polygon fill="black" stroke-width="1" points="80.5,300.5 72.5,295.5 72.5,305.5"/>
+	<polygon stroke="black" stroke-width="1" points="140.5,300.5 360.5,300.5"/>
+	<polygon fill="black" stroke-width="1" points="360.5,300.5 352.5,295.5 352.5,305.5"/>
+	<text x="220.5" y="321.5" font-family="Times New Roman" font-size="20">letra | _</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 377.275,273.703 A 22.5,22.5 0 1 1 403.725,273.703"/>
+	<text x="330.5" y="224.5" font-family="Times New Roman" font-size="20">letra | digito | _</text>
+	<polygon fill="black" stroke-width="1" points="403.725,273.703 412.473,270.17 404.382,264.292"/>
+	<polygon stroke="black" stroke-width="1" points="110.5,330.5 110.5,450.5"/>
+	<polygon fill="black" stroke-width="1" points="110.5,450.5 115.5,442.5 105.5,442.5"/>
+	<text x="63.5" y="396.5" font-family="Times New Roman" font-size="20">outro</text>
+	<polygon stroke="black" stroke-width="1" points="418.354,289.358 662.646,191.642"/>
+	<polygon fill="black" stroke-width="1" points="662.646,191.642 653.361,189.97 657.075,199.255"/>
+	<text x="544.5" y="262.5" font-family="Times New Roman" font-size="20">tabela</text>
+	<polygon stroke="black" stroke-width="1" points="418.027,312.428 662.973,418.572"/>
+	<polygon fill="black" stroke-width="1" points="662.973,418.572 657.621,410.803 653.645,419.979"/>
+	<text x="490.5" y="386.5" font-family="Times New Roman" font-size="20">senao</text>
+</svg>

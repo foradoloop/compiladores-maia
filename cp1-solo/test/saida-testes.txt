@@ -1,0 +1,74 @@
+OK   identificador: 4 tokens + EOF
+OK   identificador total -> total
+OK   identificador x1 -> x1
+OK   identificador contaItens -> contaItens
+OK   identificador _nome -> _nome
+OK   identificador: termina em EOF
+OK   palavra reservada if -> if
+OK   palavra reservada fn -> fn
+OK   palavra reservada var -> var
+OK   palavra reservada int -> int
+OK   palavra reservada return -> return
+OK   palavra reservada end -> end
+OK   ifelse e identificador, nao IF -> ifelse
+OK   string: 1 token + EOF
+OK   string hello -> "hello"
+OK   string hello: literal
+OK   string vazia -> ""
+OK   string vazia: literal
+OK   string com escape -> "a\nb"
+OK   string com escape: \n interpretado
+OK   char a -> 'a'
+OK   char a: literal
+OK   char \n -> '\n'
+OK   char \n: literal
+OK   inteiro 10 -> 10
+OK   inteiro 10: valor
+OK   real 3.14 -> 3.14
+OK   real 3.14: double
+OK   real 3.14f -> 3.14f
+OK   real 3.14f: float
+OK   inteiro 1_000 -> 1_000
+OK   inteiro 1_000: valor 1000
+OK   operador = -> =
+OK   operador == -> ==
+OK   operador < -> <
+OK   operador <= -> <=
+OK   operador > -> >
+OK   operador >= -> >=
+OK   operador != -> !=
+OK   operador + -> +
+OK   operador - -> -
+OK   operador * -> *
+OK   operador / -> /
+OK   operador % -> %
+[line 1, column 1] Error: Unterminated string
+OK   erro: string ate EOF reporta erro
+OK   erro: string ate EOF nao trava
+[line 1, column 1] Error: Missing terminating " character
+OK   erro: string ate fim de linha reporta erro
+OK   erro: string ate fim de linha continua tokenizando
+[line 1, column 3] Error: Unexpected character
+OK   erro: caractere fora do alfabeto reporta erro
+OK   erro: caractere fora do alfabeto continua tokenizando
+OK   realista: fn -> fn
+OK   realista: soma -> soma
+OK   realista: ( -> (
+OK   realista: a -> a
+OK   realista: , -> ,
+OK   realista: b -> b
+OK   realista: ) -> )
+OK   realista: return -> return
+OK   realista: a -> a
+OK   realista: + -> +
+OK   realista: b -> b
+OK   realista: end -> end
+OK   realista: var -> var
+OK   realista: x -> x
+OK   realista: = -> =
+OK   realista: 1_000 -> 1_000
+OK   realista: EOF -> 
+OK   realista: total de tokens
+
+Passed: 68
+Failed: 0

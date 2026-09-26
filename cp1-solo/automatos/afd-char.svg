@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "https://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="800" height="600" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="80.5" cy="220.5" rx="30" ry="30"/>
+	<text x="37.5" y="226.5" font-family="Times New Roman" font-size="20">scanToken</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="280.5" cy="170.5" rx="30" ry="30"/>
+	<text x="243.5" y="176.5" font-family="Times New Roman" font-size="20">character</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="520.5" cy="170.5" rx="30" ry="30"/>
+	<text x="498.5" y="176.5" font-family="Times New Roman" font-size="20">fecha</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="720.5" cy="170.5" rx="30" ry="30"/>
+	<text x="646.5" y="176.5" font-family="Times New Roman" font-size="20">CHAR_LITERAL</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="720.5" cy="170.5" rx="24" ry="24"/>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="280.5" cy="320.5" rx="30" ry="30"/>
+	<text x="253.5" y="326.5" font-family="Times New Roman" font-size="20">escape</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="400.5" cy="540.5" rx="30" ry="30"/>
+	<text x="384.5" y="546.5" font-family="Times New Roman" font-size="20">erro</text>
+	<polygon stroke="black" stroke-width="1" points="10.5,220.5 50.5,220.5"/>
+	<polygon fill="black" stroke-width="1" points="50.5,220.5 42.5,215.5 42.5,225.5"/>
+	<polygon stroke="black" stroke-width="1" points="109.604,213.224 251.396,177.776"/>
+	<polygon fill="black" stroke-width="1" points="251.396,177.776 242.422,174.866 244.847,184.567"/>
+	<text x="179.5" y="218.5" font-family="Times New Roman" font-size="20">aspa</text>
+	<polygon stroke="black" stroke-width="1" points="101.713,241.713 379.287,519.287"/>
+	<polygon fill="black" stroke-width="1" points="379.287,519.287 377.165,510.094 370.094,517.165"/>
+	<text x="193.5" y="401.5" font-family="Times New Roman" font-size="20">outro</text>
+	<polygon stroke="black" stroke-width="1" points="310.5,170.5 490.5,170.5"/>
+	<polygon fill="black" stroke-width="1" points="490.5,170.5 482.5,165.5 482.5,175.5"/>
+	<text x="364.5" y="191.5" font-family="Times New Roman" font-size="20">caractere</text>
+	<polygon stroke="black" stroke-width="1" points="280.5,200.5 280.5,290.5"/>
+	<polygon fill="black" stroke-width="1" points="280.5,290.5 285.5,282.5 275.5,282.5"/>
+	<text x="234.5" y="251.5" font-family="Times New Roman" font-size="20">barra</text>
+	<polygon stroke="black" stroke-width="1" points="289.755,199.037 391.245,511.963"/>
+	<polygon fill="black" stroke-width="1" points="391.245,511.963 393.533,502.811 384.021,505.896"/>
+	<text x="289.5" y="368.5" font-family="Times New Roman" font-size="20">vazio</text>
+	<polygon stroke="black" stroke-width="1" points="305.94,304.6 495.06,186.4"/>
+	<polygon fill="black" stroke-width="1" points="495.06,186.4 485.626,186.4 490.926,194.88"/>
+	<text x="405.5" y="266.5" font-family="Times New Roman" font-size="20">escape</text>
+	<polygon stroke="black" stroke-width="1" points="294.866,346.837 386.134,514.163"/>
+	<polygon fill="black" stroke-width="1" points="386.134,514.163 386.693,504.746 377.914,509.534"/>
+	<text x="291.5" y="448.5" font-family="Times New Roman" font-size="20">outro</text>
+	<polygon stroke="black" stroke-width="1" points="550.5,170.5 690.5,170.5"/>
+	<polygon fill="black" stroke-width="1" points="690.5,170.5 682.5,165.5 682.5,175.5"/>
+	<text x="602.5" y="191.5" font-family="Times New Roman" font-size="20">aspa</text>
+	<polygon stroke="black" stroke-width="1" points="511.245,199.037 409.755,511.963"/>
+	<polygon fill="black" stroke-width="1" points="409.755,511.963 416.979,505.896 407.467,502.811"/>
+	<text x="398.5" y="354.5" font-family="Times New Roman" font-size="20">quebra</text>
+</svg>
